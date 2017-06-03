@@ -15,3 +15,7 @@ You'll need to add your own API key to this line...
 ```
 
 [You can get a Google Maps API Key here](https://developers.google.com/maps/documentation/javascript/get-api-key).
+
+### Demo
+
+[tomgiddings.github.io/GoogleMapSearch](https://tomgiddings.github.io/GoogleMapSearch/)
